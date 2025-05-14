@@ -1,6 +1,9 @@
-<a href="https://github.com/gaziikk">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Hi,+I'm+gazik;Backend+Developer;Python+|+Django+|+Flask;APIs+|+PostgreSQL"/>
-</a>
+<div align="center">
+  <a href="https://github.com/gaziikk">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Hi,+I'm+gazik;Backend+Developer;Python+|+Django+|+Flask;APIs+|+PostgreSQL"/>
+  </a>
+</div>
+
 
 ---
 
